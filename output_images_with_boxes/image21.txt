@@ -1,0 +1,14 @@
+-TheRL Probiem
+State
+Rat Example
+LL PRESS
+EyER
+FoR
+FoOD
+面
+last 3items in sequence?
+What if agent state
+countsfor lights.bellsandlevers?
+What if agent state
+What if agent state
+complete sequence?

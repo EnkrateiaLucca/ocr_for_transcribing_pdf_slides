@@ -1,0 +1,13 @@
+-Admi
+Textbooks
+An IntroductiontoReinforcementLearning,Suttonand
+Barto,1998
+MITPress.1998
+、40pounds
+Availabefree online!
+http://webdocs.cs.ualberta.ca/～sutton/book/the-book.html
+Algorithms for Reinforcement Learning,Szepesvari
+Morgan and Claypoo,2010
+20pound
+Availablefree online!
+http://www.ualberta.ca/～szepesva/ papers/RLAlgsInMDPs.pdf

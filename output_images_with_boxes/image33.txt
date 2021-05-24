@@ -1,0 +1,12 @@
+Introdu
+—nside An RL Agent
+Categorizing RL agents(1)
+value Based
+NoPolicv(Imolicit)
+ValueFunction
+Policy Based
+Policy
+ValueFunction
+Actor Critic
+Policy
+valueFunction

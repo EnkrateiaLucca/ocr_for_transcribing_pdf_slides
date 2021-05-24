@@ -1,0 +1,7 @@
+Introdu
+-Inside An RL Agent
+ValueFunction
+valuefunction is aprediction of futurereward
+Usedtoevaluatethegoodness/badness of states
+Andthereforetoselect between actions,e.g.
+(s)=BR1+7R2+?R3+…IS= s

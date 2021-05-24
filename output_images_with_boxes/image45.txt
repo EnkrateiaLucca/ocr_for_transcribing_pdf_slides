@@ -1,0 +1,15 @@
+-Course Outline
+Course Outline
+Part
+Elementarv ReinforcementLearning
+IntroductiontoRL
+Markov Decision Processes
+Planning bv Dynamic Programming
+Mode-Free Prediction
+可Mode-FreeControl
+Part lReinforcement Learning in Practice
+ValueFunction Approximation
+Policy Gradient Methods
+IntegratingLearning and Planning
+Exploration andExploitation
+Case study -RLin games

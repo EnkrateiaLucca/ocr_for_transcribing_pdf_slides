@@ -1,0 +1,8 @@
+Introdu
+-Inside An RL Agent
+Mode
+model predicts what theenvironment willdonext
+predicts the next state
+尼predicts the next(immediate)reward,e.g.
+P=P[S1=sIS=s, =a]
+g=E[R1|S=s,=a]

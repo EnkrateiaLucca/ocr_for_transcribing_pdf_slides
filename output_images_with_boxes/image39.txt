@@ -1,0 +1,7 @@
+Introdu
+-Problems within RL
+Exploration andExploitation(I)
+Reinforcememnt learning isliketria-and-errorlearning
+The agent should discover agood policy
+Fromits experiences oftheenvironment
+Without losingtoo muchreward along the way

@@ -1,0 +1,20 @@
+-TheRL Probiem
+Reard
+Exampes of Rewards
+helicopter
+Fly stunt manoeuvres in
++ve rewardfor following desired trajectory
+-verewardfor crashing
+Defeat the worldchampion atBackgammon
+-ve rewardfor winning/losing agame
+Manage an investment portfolio
++verewardfor each Sinbank
+Controlapower station
+tverewardfor producingpower
+-ve rewardfor exceeding safetv thresholds
+Make
+humanoidrobot walk
++verewardfor forward motion
+-ve rewardfor falling over
+Play many different Atari games better than humans
+t/-verewardfor increasing/decreasing score

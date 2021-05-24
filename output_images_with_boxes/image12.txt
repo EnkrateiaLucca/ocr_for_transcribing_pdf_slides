@@ -1,0 +1,11 @@
+-TheRL Problem
+—Reward
+Rewards
+reward R. is a scalar feedback signal
+Indicates how well agent is doing at step
+Theagentsjiobistomaximisecumuativereward
+Reinforcement learning is based on thereward hypothesis
+Definition(Reward Hvypothesis)
+Agoascanbe describedbv the maximisation of expected
+cumulativereward
+Doyou agree withthis statement?

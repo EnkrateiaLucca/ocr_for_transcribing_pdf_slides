@@ -1,0 +1,14 @@
+-The RL Probilem
+-State
+Fullvy ObservabeEnvironments
+Fullobservabilitvy:agent directly
+observes environment state
+acion
+S
+Agent state=environment
+information state
+state
+FormallythisisaMarkov
+decision process(MDP)
+(Nextlectureandthe
+majority ofthis course)

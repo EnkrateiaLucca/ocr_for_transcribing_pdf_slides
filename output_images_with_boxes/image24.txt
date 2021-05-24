@@ -1,0 +1,7 @@
+Introdu
+-Inside An RL Agent
+Major Componentsof an RLAgent
+iAnRLagent may includeoneor more ofthesecomponemts:
+Policy:agent's behaviour function
+valuefunction:howgoodis each state and/or action
+Model:agent s representation oftheenvironment

@@ -1,0 +1,13 @@
+Introdu
+-Problems within RL
+Gridworld Example:Control
+22024422019.417.5
+19.822019.817816.0
+|17819.8178160144
+16.017816014413.0
+14.4]16.014413.011.7
+a)gridworld
+b)0
+C)T
+What istheoptimalvaluefunction over allpossible policies?
+What is the optimal policy?

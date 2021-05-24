@@ -1,0 +1,12 @@
+Introdu
+-Problems within RL
+GridwordExampe:Prediction
+3.8 88445.31.5
+1.53.02.3190.5
+0.10.707040.4
+-1.0-04-04-0.6-1.2
+Actions
+1.9-1.3-1.2-1.4-20
+(b)
+(a)
+What isthevaluefunctionfor theuniformrandompolicy?

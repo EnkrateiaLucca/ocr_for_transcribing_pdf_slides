@@ -1,0 +1,16 @@
+-TheRL Probiem
+LState
+Environment State
+Theenvironment state Sgis
+observatior
+theenvironment sprivate
+representation
+i.e.whateverdatathe
+emvironment usestopickthe
+next observation/reward
+Theenvironment state isnot
+usually visibletotheagent
+EvenifSgisvisible,it may
+containirrelevant
+information
+emvironmemtstateS

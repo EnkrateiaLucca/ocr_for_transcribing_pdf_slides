@@ -1,0 +1,15 @@
+Introdu
+-Inside An RL Agent
+Maze Example:Model
+Agent may have an internal
+modeloftheenvironment
+Start
+Dvnamics: how actions
+changethe state
+Rewards:howmuchreward
+fromeach state
+Goal
+Themodelmaybeimperfect
+Grid layoutrepresents transition model P,
+Numbers represent immediate rewardR from each state
+(samefor alla)

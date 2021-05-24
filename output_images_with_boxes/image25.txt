@@ -1,0 +1,8 @@
+Introdu
+-Inside An RL Agent
+Policy
+policy
+theagentsbehaviour
+■tisamapfrom stateto action,e.g.
+Deterministic policy:a=r(s)
+Stochastic policy; 7(ajs) = P[A= a.S:= s]

@@ -1,0 +1,8 @@
+-AboutRL
+Characteristics of Reinforcement Learning
+What makes reinforcement learningdifferent from other machine
+learning paradigms?
+There isnosupervisor,only areward signal
+Feedback is delavyed,not instantaneous
+Time really matters(sequential,non ii.d data)
+Agent sactions affectthe subseauent datait receives

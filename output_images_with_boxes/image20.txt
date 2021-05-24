@@ -1,0 +1,15 @@
+-The RL Problem
+LState
+InformationState
+An information state(a.ka.Markov state)contains all usefu
+informationfromthehistorv.
+Definition
+A state S.is Markovif and onlyif
+P[S.11|S=P[S.1|S.…S
+“Thefutureisindependent of the past given the present
+Ht1:oo
+known,the history maybethrownaway
+Oncethestate
+i.e.The state is asufficient statistic ofthefuture
+The environment state Sg is Markov
+Thehistomy H.is Markov

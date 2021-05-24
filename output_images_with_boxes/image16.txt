@@ -1,0 +1,14 @@
+-TheRL Probem
+Enviromments
+Agent andEnvironment
+observation
+action
+At each steptthe agent:
+Executes actionA.
+Receives observationO.
+Receives scalar rewardR.
+Theenvironment:
+Receives action A.
+Emits observation Oc1
+Emits scalar rewardR.L1
+tincrements at env.step

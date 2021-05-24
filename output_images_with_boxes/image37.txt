@@ -1,0 +1,12 @@
+Introdu
+-Problems within RL
+Atari Example:ReinforcementLearning
+bservatior
+Rules of thegame are
+unknown
+Learn directfrom
+reward
+interactive game-play
+Pickactionson
+joystick,seepixels
+andscores

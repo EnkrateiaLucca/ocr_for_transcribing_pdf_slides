@@ -1,0 +1,15 @@
+Introdu
+-Problems within RL
+Learning and Panning
+Twofundamentalproblems in sequentialdecisiom making
+Reinforcement Learning:
+The environment is initiallv unknown
+The agent interacts withtheenvironment
+The agent improves itspolicy
+Panning:
+model of the environment isknown
+Theagent performs computations with its model (without any
+externalinteraction)
+The agent improves its policy
+a.k.a.deliberation,reasoning,introspection,pondering,
+thought,search

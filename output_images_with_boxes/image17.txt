@@ -1,0 +1,14 @@
+-TheRL Probilem
+LState
+History and State
+The historyis the sequence ofobservations,actions,rewards
+A=0.凡,A…A,0R
+i.e.allobservable variables uptotime
+robot or embodied agent
+i.e.the sensorimotor streamof
+What happens next depends on the history:
+The agent selects actions
+The environment selects observations/rewards
+State isthe information usedto determine what happensnext
+Formallv state is afunction ofthe history:
+f(A)

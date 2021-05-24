@@ -1,0 +1,17 @@
+-The RL Problem
+-State
+Agent State
+The agent state Sisthe
+agemtstate
+agemt s internal
+representation
+observatiom
+i.e.whatever information
+the agent usestopick the
+next action
+ie.itistheinformation
+usedbvreinforcement
+learning algorithms
+tcanbe anyfunction of
+history
+f(A)

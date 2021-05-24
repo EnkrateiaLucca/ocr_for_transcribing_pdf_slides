@@ -1,0 +1,14 @@
+-TheRL Probiem
+—State
+Partially ObservableEnvironments
+Partial observabilitv:agent indirectly observes environment:
+Arobot with cameravision isnttold its absolutelocation
+A tradingagent onlv observes current prices
+Apoker playing agent only observes public cards
+Now agent state≠environment state
+Formally this isapartially observable Markov decision process
+(POMDP)
+Agent must construct its own state representation S,e.g.
+Complete history: S
+Beliefs of environment state: S= (P[Sg = s.mPS9 = s)
+Recurrent neural network: S=c(S +O.Yo)

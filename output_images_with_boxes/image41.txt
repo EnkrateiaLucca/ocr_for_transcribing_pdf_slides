@@ -1,0 +1,15 @@
+Introdu
+-Problems within RL
+Examples
+Restaurant Selection
+ExploitationGotoyourfavouriterestaurant
+ExplorationTrv anew restaurant
+Online Banner Advertisements
+Exploitation Showthe most successful advert
+Exploration Show adifferent advert
+Oil Drilling
+Exploitation Drill at the best knownlocation
+Exploration Drill at anew location
+Game Playing
+Exploitation Playthe moveyoubelieve is best
+Exploration Play an experimentalmove

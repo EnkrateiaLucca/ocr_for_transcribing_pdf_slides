@@ -1,0 +1,13 @@
+-TheRL Probiem
+Reward
+SequentialDecision Making
+Goal:seect actions to maximise total future reward
+Actions mav havelongterm conseauences
+Rewardmaybedelayed
+may be betterto sacrifice immediaterewardtogain more
+longtermreward
+Examples:
+Afinancial investment(mav take monthstomature)
+Refuellingahelicopter(might prevent acrash in several hours)
+Blockingopponent moves(might help winningchances many
+movesfromnow)

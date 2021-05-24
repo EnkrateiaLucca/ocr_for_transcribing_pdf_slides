@@ -1,0 +1,11 @@
+Introdu
+-Problems within RL
+Atari Example:Planning
+Rules ofthegameareknown
+Can query emulato
+perfect model inside agent's brain
+Ifltake actionafrom state
+what would the next state be?
+what wouldthescorebe?
+Plan ahead tofind optimal policy
+e.g.tree search

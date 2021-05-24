@@ -1,0 +1,6 @@
+Introdu
+-Problems within RL
+ExplorationandExploitation(2)
+Exporationfinds moreinformationaboutthe environment
+Expoitatiom exploitsknown informationto maximise reward
+■tis usually important to explore as well as exploit

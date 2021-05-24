@@ -1,0 +1,7 @@
+Introdu
+-Problems within RL
+Prediction andControl
+iPrediction:evaluatethefuture
+Given apolicv
+Control:optimisethefuture
+Findthebest policy
